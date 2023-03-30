@@ -1,0 +1,8 @@
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\bin\Debug\Ders7.exe.config
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\bin\Debug\Ders7.exe
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\bin\Debug\Ders7.pdb
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\obj\Debug\Ders7.csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\obj\Debug\Ders7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\obj\Debug\Ders7.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\obj\Debug\Ders7.exe
+C:\Users\Umut Ramazan\source\repos\Ders7\Ders7\obj\Debug\Ders7.pdb
