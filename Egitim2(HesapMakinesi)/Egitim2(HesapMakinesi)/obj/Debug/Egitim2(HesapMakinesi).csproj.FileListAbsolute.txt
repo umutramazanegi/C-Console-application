@@ -1,0 +1,8 @@
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\bin\Debug\Egitim2(HesapMakinesi).exe.config
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\bin\Debug\Egitim2(HesapMakinesi).exe
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\bin\Debug\Egitim2(HesapMakinesi).pdb
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\obj\Debug\Egitim2(HesapMakinesi).csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\obj\Debug\Egitim2(HesapMakinesi).csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\obj\Debug\Egitim2(HesapMakinesi).csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\obj\Debug\Egitim2(HesapMakinesi).exe
+C:\Users\Umut Ramazan\source\repos\Egitim2(HesapMakinesi)\Egitim2(HesapMakinesi)\obj\Debug\Egitim2(HesapMakinesi).pdb
