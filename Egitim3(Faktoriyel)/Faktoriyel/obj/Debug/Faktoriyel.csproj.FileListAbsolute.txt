@@ -1,0 +1,16 @@
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\Umut Ramazan\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\obj\Debug\Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\obj\Debug\Faktoriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\Umut Ramazan\source\repos\Egitim3(Faktoriyel)\Faktoriyel\obj\Debug\Faktoriyel.pdb
