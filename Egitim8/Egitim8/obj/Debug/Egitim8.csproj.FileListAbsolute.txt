@@ -1,0 +1,8 @@
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\bin\Debug\Egitim8.exe.config
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\bin\Debug\Egitim8.exe
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\bin\Debug\Egitim8.pdb
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\obj\Debug\Egitim8.csproj.AssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\obj\Debug\Egitim8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\obj\Debug\Egitim8.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\obj\Debug\Egitim8.exe
+C:\Users\Umut Ramazan\source\repos\Egitim8\Egitim8\obj\Debug\Egitim8.pdb
